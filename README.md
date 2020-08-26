@@ -1,5 +1,5 @@
 # api-nested-fetch
-This is intended as a template for a nested API fetch (also supports GraphQL) and URL search params, based on a search query. This template can act as the basis for more detailed calls and a search result page.
+This is intended as a template for a nested API fetch (also supports GraphiQL) and URL search params, based on a search query. This template can act as the basis for more detailed calls and a search result page.
 
 With this template, the following actions take place:
 
